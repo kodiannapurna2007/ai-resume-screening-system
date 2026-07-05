@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+spacy
+en_core_web_sm  # NOTE: install via `python -m spacy download en_core_web_sm`
+PyPDF2
+plotly
+numpy
